@@ -1,0 +1,25 @@
+{
+  "name": "dparsa",
+  "version": "1.0.0",
+  "description": "Node.js json middleware",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "author": "Samuel Henshaw <samuelhenshaw2020@gmail.com> (https://github.com/samuelhenshaw2020/)",
+  "license": "ISC",
+  "keywords": [
+    "json",
+    "middleware",
+    "express",
+    "parse",
+    "data"
+  ],
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  "dependencies": {
+    "qs": "^6.10.3"
+  }
+}
